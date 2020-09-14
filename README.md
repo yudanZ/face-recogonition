@@ -20,10 +20,8 @@ DATABASE:
 <br>
 ```sql
 CREATE DATABASE facerecognition
-```
-Tables
 
-    ```sql
+  
     CREATE TABLE public.login
     (
         id integer NOT NULL DEFAULT nextval('login_id_seq'::regclass),
@@ -65,5 +63,4 @@ You will also see any lint errors in the console.
 
 Here is a documentation to deploy on Heroku
 https://devcenter.heroku.com/articles/git
-
 
