@@ -6,7 +6,7 @@ live demo:
 <br>
 https://myfacedetections.herokuapp.com/
 
-This project project includes two parts:
+This project includes two parts:
 <br>
 Frontend:https://github.com/yudanZ/face-recognition
 <br>
