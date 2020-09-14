@@ -1,0 +1,23 @@
+.logo {
+    display: block;
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgba(92, 102, 233, 0.77);
+    box-shadow: 3px 3px 4px 0px rgba(92, 102, 233, 0.77);
+    background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);
+    margin-left: 2rem;
+    z-index: 2;
+    transition: all 1.4s;
+    
+}
+
+
+
+.logo:hover {
+    transform: scale(1.1);
+}
+
+
+
+    
+

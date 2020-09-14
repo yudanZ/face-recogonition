@@ -1,0 +1,11 @@
+.navbar {
+    width: 100%;
+    background-color: transparent;
+    z-index: 2;
+    
+    
+}
+
+.nav_logo {
+    width: 120px !important;
+}
