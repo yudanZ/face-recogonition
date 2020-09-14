@@ -1,3 +1,11 @@
+## Description
+This projects is used to detect face from input image URL.
+It is built by using react, express and Clarifei API
+<br>
+live demo:
+<br>
+https://myfacedetections.herokuapp.com/
+
 This project project includes two parts:
 <br>
 Frontend:https://github.com/yudanZ/face-recognition
