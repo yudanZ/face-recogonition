@@ -22,6 +22,7 @@ DATABASE:
 CREATE DATABASE facerecognition
 ```
 Tables
+
     ```sql
     CREATE TABLE public.login
     (
