@@ -19,7 +19,7 @@ by using this projects, you need to install PostgreSQL
 DATABASE:
 <br>
 ```sql
-CREATE DATABASE facerecognition
+    CREATE DATABASE facerecognition
 
   
     CREATE TABLE public.login
